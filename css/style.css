@@ -403,7 +403,7 @@ header {
   height: 100%;
   position: relative;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: center;
   background-attachment: fixed
 }
 
